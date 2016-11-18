@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         // otra linea
         // commit prueba
         // commit prueba 1
+        // prueba git reset --soft HEAD -> for unstaging files
     }
 }
